@@ -9,4 +9,5 @@ class EngineCreater(object):
             password='pass',
             host='db',
             database='db',
+            maxsize=100,
         )
